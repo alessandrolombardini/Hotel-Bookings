@@ -3,4 +3,4 @@
 
 ### Link per l'esecuzione del codice in Colab ###
 
-https://colab.research.google.com/drive/1_CuJSUQVJzU8zAkpyD92JMLzrya1kRaD?usp=sharing
+https://colab.research.google.com/drive/19vgZotLS-f4AEB3SMWTzT_fPZ1bUG23I?usp=sharing
